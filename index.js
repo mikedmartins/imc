@@ -47,15 +47,14 @@ bot.on("text", (msg) => {
     vaiDigitarAltura = false;
     iniciou = false;
     vaiCalcular = true;
-
     pesoComTudo = msg.text;
     peso = pesoComTudo.replace(/[^0-9]/g, "");
+
   } else if (vaiCalcular) {
     alturaComTudo = msg.text;
     altura = alturaComTudo.replace(/[^0-9]/g, "");
     altura = altura / 100;
     quadrado = altura * altura;
-
     calculo = peso / quadrado;
 
     if (calculo < 18.5 && calculo > 0.1) {
