@@ -2,12 +2,18 @@
 
 <h3>Imc telegram</h3>
 
-:hammer: Funcionalidades do projeto- `Funcionalidade 1`: Sistema que calcula ao ÷ndice de massa corporal recebendo o peso e alturua.
+:hammer: Funcionalidades do projeto- `Funcionalidade 1`: Sistema que calcula ao √çndice de massa corporal recebendo o peso e alturua.
 <br><br>
-C¢digo simples e de f†cil entendimento para quem estiver estudando javascript 
+C√≥idigo simples e de f√°cil entendimento para quem estiver estudando javascript 
 <br>
 Sistema para ser executado em conjunto com o telegram
+
 <b>imc_telegram_index.js</b>
+<br>
 <b>imc_telegram_package.json</b>
+<br>
+<br>
 	
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLU√çDO&color=GREEN&style=for-the-badge)
+
+<hr>
