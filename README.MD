@@ -4,7 +4,7 @@
 
 :hammer: Funcionalidades do projeto- `Funcionalidade 1`: Sistema que calcula ao Índice de massa corporal recebendo o peso e alturua.
 <br><br>
-Cóidigo simples e de fácil entendimento para quem estiver estudando javascript 
+Código simples e de fácil entendimento para quem estiver estudando javascript 
 <br>
 Sistema para ser executado em conjunto com o telegram
 
